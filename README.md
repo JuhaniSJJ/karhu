@@ -16,5 +16,5 @@ Current Developer:
 
 ## CONS of DDD:
 * adding complexity (but it handles complex domain)
-* hence learning curve
+* hence steep learning curve
 *
