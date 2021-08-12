@@ -12,7 +12,7 @@ Current Developer:
 ## PROS of DDD:
 * high performance
 * opt for test
-* pararrel development 
+* parallel development 
 
 ## CONS of DDD:
 * adding complexity (but it handles complex domain)
